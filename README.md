@@ -1,5 +1,5 @@
 # Data-Visualization-Project
- A simple Python data visualization project. We explore salary data and visualizes insights about job titles, salaries, company ratings, and other features. The following visualizations were created using Python and libraries like `pandas`, `matplotlib`, and `seaborn`.
+ A simple Python data visualization project. I explored salary data and visualizes insights about job titles, salaries, company ratings, and other features. The following visualizations were created using Python and libraries like `pandas`, `matplotlib`, and `seaborn`.
 ## Visualizations
 
 ### 1. Bar Plot: Top 10 Job Titles by Salary
@@ -28,3 +28,12 @@ This scatter plot visualizes the relationship between company ratings and salari
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/Data-Visualization-Project.git
+
+## Supermarket Sales Analysis
+
+This project analyzes supermarket sales data and includes the following visualizations:
+- **Bar Plot:** Total sales by city (`barplot_city_sales.png`).
+- **Line Plot:** Daily sales trends (`lineplot_daily_sales.png`).
+- **Heatmap:** Correlation matrix (`heatmap_correlation.png`).
+
+The analysis script is in `supermarket_analysis.py`.
